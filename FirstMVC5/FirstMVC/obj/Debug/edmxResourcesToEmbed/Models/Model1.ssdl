@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="FormExampleDBModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="FormExampleDBModelStoreContainer">
+    <EntitySet Name="Users" EntityType="FormExampleDBModel.Store.Users" store:Type="Tables" Schema="dbo" />
+  </EntityContainer>
+  <EntityType Name="Users">
+    <Key>
+      <PropertyRef Name="userID" />
+    </Key>
+    <Property Name="userID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="name" Type="nchar" Nullable="false" MaxLength="50" />
+    <Property Name="surname" Type="nchar" Nullable="false" MaxLength="50" />
+    <Property Name="eposta" Type="nchar" Nullable="false" MaxLength="50" />
+    <Property Name="telefon" Type="nchar" Nullable="false" MaxLength="20" />
+    <Property Name="katilim" Type="bit" Nullable="false" />
+  </EntityType>
+</Schema>

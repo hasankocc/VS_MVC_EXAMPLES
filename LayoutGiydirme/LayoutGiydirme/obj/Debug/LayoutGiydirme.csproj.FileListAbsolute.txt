@@ -1,0 +1,62 @@
+C:\Users\HASAN.KOC\Documents\Visual Studio 2012\Projects\LayoutGiydirme\LayoutGiydirme\bin\LayoutGiydirme.dll
+C:\Users\HASAN.KOC\Documents\Visual Studio 2012\Projects\LayoutGiydirme\LayoutGiydirme\bin\LayoutGiydirme.pdb
+C:\Users\HASAN.KOC\Documents\Visual Studio 2012\Projects\LayoutGiydirme\LayoutGiydirme\bin\EntityFramework.dll
+C:\Users\HASAN.KOC\Documents\Visual Studio 2012\Projects\LayoutGiydirme\LayoutGiydirme\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HASAN.KOC\Documents\Visual Studio 2012\Projects\LayoutGiydirme\LayoutGiydirme\bin\System.Web.Helpers.dll
+C:\Users\HASAN.KOC\Documents\Visual Studio 2012\Projects\LayoutGiydirme\LayoutGiydirme\bin\System.Web.Mvc.dll
+C:\Users\HASAN.KOC\Documents\Visual Studio 2012\Projects\LayoutGiydirme\LayoutGiydirme\bin\System.Web.Providers.dll
+C:\Users\HASAN.KOC\Documents\Visual Studio 2012\Projects\LayoutGiydirme\LayoutGiydirme\bin\System.Web.Razor.dll
+C:\Users\HASAN.KOC\Documents\Visual Studio 2012\Projects\LayoutGiydirme\LayoutGiydirme\bin\System.Web.WebPages.Deployment.dll
+C:\Users\HASAN.KOC\Documents\Visual Studio 2012\Projects\LayoutGiydirme\LayoutGiydirme\bin\System.Web.WebPages.dll
+C:\Users\HASAN.KOC\Documents\Visual Studio 2012\Projects\LayoutGiydirme\LayoutGiydirme\bin\System.Web.WebPages.Razor.dll
+C:\Users\HASAN.KOC\Documents\Visual Studio 2012\Projects\LayoutGiydirme\LayoutGiydirme\bin\EntityFramework.xml
+C:\Users\HASAN.KOC\Documents\Visual Studio 2012\Projects\LayoutGiydirme\LayoutGiydirme\bin\System.Web.Helpers.xml
+C:\Users\HASAN.KOC\Documents\Visual Studio 2012\Projects\LayoutGiydirme\LayoutGiydirme\bin\System.Web.Mvc.xml
+C:\Users\HASAN.KOC\Documents\Visual Studio 2012\Projects\LayoutGiydirme\LayoutGiydirme\bin\System.Web.Razor.xml
+C:\Users\HASAN.KOC\Documents\Visual Studio 2012\Projects\LayoutGiydirme\LayoutGiydirme\bin\System.Web.WebPages.xml
+C:\Users\HASAN.KOC\Documents\Visual Studio 2012\Projects\LayoutGiydirme\LayoutGiydirme\bin\System.Web.WebPages.Deployment.xml
+C:\Users\HASAN.KOC\Documents\Visual Studio 2012\Projects\LayoutGiydirme\LayoutGiydirme\bin\System.Web.WebPages.Razor.xml
+C:\Users\HASAN.KOC\Documents\Visual Studio 2012\Projects\LayoutGiydirme\LayoutGiydirme\obj\Debug\LayoutGiydirme.csprojResolveAssemblyReference.cache
+C:\Users\HASAN.KOC\Documents\Visual Studio 2012\Projects\LayoutGiydirme\LayoutGiydirme\obj\Debug\LayoutGiydirme.dll
+C:\Users\HASAN.KOC\Documents\Visual Studio 2012\Projects\LayoutGiydirme\LayoutGiydirme\obj\Debug\LayoutGiydirme.pdb
+C:\Users\HASAN.KOC\Desktop\VS_EXAMS\LayoutGiydirme\LayoutGiydirme\bin\LayoutGiydirme.dll
+C:\Users\HASAN.KOC\Desktop\VS_EXAMS\LayoutGiydirme\LayoutGiydirme\bin\LayoutGiydirme.pdb
+C:\Users\HASAN.KOC\Desktop\VS_EXAMS\LayoutGiydirme\LayoutGiydirme\bin\EntityFramework.dll
+C:\Users\HASAN.KOC\Desktop\VS_EXAMS\LayoutGiydirme\LayoutGiydirme\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HASAN.KOC\Desktop\VS_EXAMS\LayoutGiydirme\LayoutGiydirme\bin\System.Web.Helpers.dll
+C:\Users\HASAN.KOC\Desktop\VS_EXAMS\LayoutGiydirme\LayoutGiydirme\bin\System.Web.Mvc.dll
+C:\Users\HASAN.KOC\Desktop\VS_EXAMS\LayoutGiydirme\LayoutGiydirme\bin\System.Web.Providers.dll
+C:\Users\HASAN.KOC\Desktop\VS_EXAMS\LayoutGiydirme\LayoutGiydirme\bin\System.Web.Razor.dll
+C:\Users\HASAN.KOC\Desktop\VS_EXAMS\LayoutGiydirme\LayoutGiydirme\bin\System.Web.WebPages.Deployment.dll
+C:\Users\HASAN.KOC\Desktop\VS_EXAMS\LayoutGiydirme\LayoutGiydirme\bin\System.Web.WebPages.dll
+C:\Users\HASAN.KOC\Desktop\VS_EXAMS\LayoutGiydirme\LayoutGiydirme\bin\System.Web.WebPages.Razor.dll
+C:\Users\HASAN.KOC\Desktop\VS_EXAMS\LayoutGiydirme\LayoutGiydirme\bin\EntityFramework.xml
+C:\Users\HASAN.KOC\Desktop\VS_EXAMS\LayoutGiydirme\LayoutGiydirme\bin\System.Web.Helpers.xml
+C:\Users\HASAN.KOC\Desktop\VS_EXAMS\LayoutGiydirme\LayoutGiydirme\bin\System.Web.Mvc.xml
+C:\Users\HASAN.KOC\Desktop\VS_EXAMS\LayoutGiydirme\LayoutGiydirme\bin\System.Web.Razor.xml
+C:\Users\HASAN.KOC\Desktop\VS_EXAMS\LayoutGiydirme\LayoutGiydirme\bin\System.Web.WebPages.xml
+C:\Users\HASAN.KOC\Desktop\VS_EXAMS\LayoutGiydirme\LayoutGiydirme\bin\System.Web.WebPages.Deployment.xml
+C:\Users\HASAN.KOC\Desktop\VS_EXAMS\LayoutGiydirme\LayoutGiydirme\bin\System.Web.WebPages.Razor.xml
+C:\Users\HASAN.KOC\Desktop\VS_EXAMS\LayoutGiydirme\LayoutGiydirme\obj\Debug\LayoutGiydirme.dll
+C:\Users\HASAN.KOC\Desktop\VS_EXAMS\LayoutGiydirme\LayoutGiydirme\obj\Debug\LayoutGiydirme.pdb
+C:\Users\HASAN.KOC\Desktop\VS_MVC_EXAMS\LayoutGiydirme\LayoutGiydirme\bin\LayoutGiydirme.dll
+C:\Users\HASAN.KOC\Desktop\VS_MVC_EXAMS\LayoutGiydirme\LayoutGiydirme\bin\LayoutGiydirme.pdb
+C:\Users\HASAN.KOC\Desktop\VS_MVC_EXAMS\LayoutGiydirme\LayoutGiydirme\bin\EntityFramework.dll
+C:\Users\HASAN.KOC\Desktop\VS_MVC_EXAMS\LayoutGiydirme\LayoutGiydirme\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HASAN.KOC\Desktop\VS_MVC_EXAMS\LayoutGiydirme\LayoutGiydirme\bin\System.Web.Helpers.dll
+C:\Users\HASAN.KOC\Desktop\VS_MVC_EXAMS\LayoutGiydirme\LayoutGiydirme\bin\System.Web.Mvc.dll
+C:\Users\HASAN.KOC\Desktop\VS_MVC_EXAMS\LayoutGiydirme\LayoutGiydirme\bin\System.Web.Providers.dll
+C:\Users\HASAN.KOC\Desktop\VS_MVC_EXAMS\LayoutGiydirme\LayoutGiydirme\bin\System.Web.Razor.dll
+C:\Users\HASAN.KOC\Desktop\VS_MVC_EXAMS\LayoutGiydirme\LayoutGiydirme\bin\System.Web.WebPages.Deployment.dll
+C:\Users\HASAN.KOC\Desktop\VS_MVC_EXAMS\LayoutGiydirme\LayoutGiydirme\bin\System.Web.WebPages.dll
+C:\Users\HASAN.KOC\Desktop\VS_MVC_EXAMS\LayoutGiydirme\LayoutGiydirme\bin\System.Web.WebPages.Razor.dll
+C:\Users\HASAN.KOC\Desktop\VS_MVC_EXAMS\LayoutGiydirme\LayoutGiydirme\bin\EntityFramework.xml
+C:\Users\HASAN.KOC\Desktop\VS_MVC_EXAMS\LayoutGiydirme\LayoutGiydirme\bin\System.Web.Helpers.xml
+C:\Users\HASAN.KOC\Desktop\VS_MVC_EXAMS\LayoutGiydirme\LayoutGiydirme\bin\System.Web.Mvc.xml
+C:\Users\HASAN.KOC\Desktop\VS_MVC_EXAMS\LayoutGiydirme\LayoutGiydirme\bin\System.Web.Razor.xml
+C:\Users\HASAN.KOC\Desktop\VS_MVC_EXAMS\LayoutGiydirme\LayoutGiydirme\bin\System.Web.WebPages.xml
+C:\Users\HASAN.KOC\Desktop\VS_MVC_EXAMS\LayoutGiydirme\LayoutGiydirme\bin\System.Web.WebPages.Deployment.xml
+C:\Users\HASAN.KOC\Desktop\VS_MVC_EXAMS\LayoutGiydirme\LayoutGiydirme\bin\System.Web.WebPages.Razor.xml
+C:\Users\HASAN.KOC\Desktop\VS_MVC_EXAMS\LayoutGiydirme\LayoutGiydirme\obj\Debug\LayoutGiydirme.csprojResolveAssemblyReference.cache
+C:\Users\HASAN.KOC\Desktop\VS_MVC_EXAMS\LayoutGiydirme\LayoutGiydirme\obj\Debug\LayoutGiydirme.dll
+C:\Users\HASAN.KOC\Desktop\VS_MVC_EXAMS\LayoutGiydirme\LayoutGiydirme\obj\Debug\LayoutGiydirme.pdb

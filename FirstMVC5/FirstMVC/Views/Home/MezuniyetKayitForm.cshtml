@@ -1,0 +1,33 @@
+﻿@model FirstMVC.Models.Users
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>MezuniyetKayitForm</title>
+</head>
+<body>
+    <div>
+       
+          @using (Html.BeginForm()){
+            @Html.ValidationSummary()
+          <p>Adınız:@Html.TextBoxFor(x => x.name, new { Style="margin-left:75px;" })</p>
+          <p>Soyadınız:@Html.TextBoxFor(x => x.surname, new { Style="margin-left:55px;" })</p>
+          <p>Eposta:@Html.TextBoxFor(x => x.eposta, new { placeholder="ornek@example.com", Style="margin-left:75px;" })</p>
+          <p>Telefon:@Html.TextBoxFor(x=>x.telefon, new { placeholder="5xxxxxxxxx" , Style="margin-left:71px;" })</p>
+          <p>Katilacak mısınız : @Html.DropDownListFor(x=>x.katilim,new[] 
+                                 {
+                                   new SelectListItem () { Text = "Evet,katılacağım",Value=bool.TrueString} ,
+                                   new SelectListItem () { Text = "Hayır,katılamayacağım",Value=bool.FalseString} 
+                                 },"Bir seçim yapınız" , new{ Style="width:173px;"}) </p>
+        
+          <p><input type="submit" value="Gönder" style="margin-left:240px;"/></p>
+        }
+    </div>
+</body>
+</html>

@@ -1,0 +1,31 @@
+﻿@using FirstMVC.Models
+@model Users
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>FindRecord</title>
+</head>
+<body>
+    <div>
+
+        <form action="/Home/FindRecord" method="post">
+         @Html.AntiForgeryToken()
+           <input type="text" id="Email" name="Email" /><br />
+           <input type="submit" value="Gönder" />    
+         </form>
+
+        <br />
+        @if(Model != null)
+        {
+        <label>@Model.name @Model.surname balo listesinde kayıtlısın</label>
+        }
+    </div>
+</body>
+</html>

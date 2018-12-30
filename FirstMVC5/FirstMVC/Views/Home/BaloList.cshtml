@@ -1,0 +1,39 @@
+﻿@{
+    Layout = null;
+}
+
+@using FirstMVC.Models
+@model List<Users>
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>BaloList</title>
+</head>
+<body>
+    <div>
+        <table border="1">
+            <thead>
+                <tr>
+                <th>Adı</th>
+                <th>Soyadı</th>
+                <th>Eposta</th>
+                <th>Telefon</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach(Users user in Model)
+                {
+               <tr>
+                   <td>@user.name</td>
+                   <td>@user.surname</td>
+                   <td>@user.eposta</td>
+                   <td>@user.telefon</td>
+               </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</body>
+</html>

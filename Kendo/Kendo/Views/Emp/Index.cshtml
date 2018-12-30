@@ -1,0 +1,57 @@
+﻿@model Kendo.Models.SampleEntities
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_LayoutPage.cshtml";
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width-device-width" />
+
+<title>
+@ViewBag.Title
+</title>
+    <link href="~/Content/kendo/styles/kendo.common.min.css" rel="stylesheet" />
+    <link href="~/Content/kendo/styles/kendo.rtl.min.css" rel="stylesheet" />
+    <link href="~/Content/kendo/styles/kendo.default.min.css" rel="stylesheet" />
+
+    <script src="~/Scripts/kendo/js/jquery.min.js"></script>
+    <script src="~/Scripts/kendo/js/kendo.web.min.js"></script>
+    <script src="~/Scripts/kendo/js/kendo.aspnetmvc.min.js"></script>
+</head>
+<body>
+
+<h2>Kendo UI Grid</h2>
+
+    @(Html.Kendo().Grid<Kendo.Models.ProductViewModel>()
+            .Name("grid")
+            .Columns(columns =>
+            {
+                columns.Bound(product => product.ProductID).Width(100);
+                columns.Bound(product => product.ProductName);
+                columns.Bound(product => product.UnitsInStock).Width(250);
+                columns.Command(commands =>
+                {
+                    commands.Edit(); // The "edit" command will edit and update data items.
+                    commands.Destroy(); // The "destroy" command removes data items.
+                }).Title("Commands").Width(200);
+            })
+            .ToolBar(toolbar => toolbar.Create()) // The "create" command adds new data items.
+            .Editable(editable => editable.Mode(GridEditMode.InLine)) // Use inline editing mode.
+            .DataSource(dataSource =>
+                dataSource.Ajax()
+                  .Model(model =>
+                  {
+                      model.Id(product => product.ProductID); // Specify the property which is the unique identifier of the model.
+                      model.Field(product => product.ProductID).Editable(false); // Make the ProductID property not editable.
+                  })
+                  .Create(create => create.Action("Products_Create", "Emp")) // Action invoked when the user saves a new data item.
+                  .Read(read => read.Action("Products_Read", "Emp"))  // Action invoked when the grid needs data.
+                  .Update(update => update.Action("Products_Update", "Emp"))  // Action invoked when the user saves an updated data item.
+                  .Destroy(destroy => destroy.Action("Products_Destroy", "Emp")) // Action invoked when the user removes a data item.
+            )
+            .Pageable()
+      )
+ </body>
+</html>

@@ -1,0 +1,22 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div>
+      <p><b>@ViewBag.Mesaj Bilişim Fakültesi </b> </p><!-- "et işareti" razor işaretidir.Html dosyasında c# kodu yazmaya yarar
+        Bir satır yazılacaksa sadece bu işaretin konması yeterli.Fakat 2 ve daha fazla satırda {} kullanılmalı-->
+        <p>Mezuniyet Balomuza Bekleriz!</p>
+         @Html.ActionLink("Mezuniyet Balo Kayıt", "MezuniyetKayitForm","Home") <br />
+         @Html.ActionLink("Kayıt Kontrol", "FindRecord","Home")<br />
+         @Html.ActionLink("Balo Listesi","BaloList","Home")
+    </div>
+</body>
+</html>

@@ -1,0 +1,27 @@
+﻿@model FirstMVC.Models.Users
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Tesekkur</title>
+</head>
+<body>
+    <div>
+        <p>Cevabınız için Teşekkürler @Model.name @Model.surname!</p>
+        @if(Model.katilim==true)
+        {
+            @:Dört gözle bekliyoruz
+        }
+        else
+         {   
+         @:Bi daha ki sefere artık
+         }
+    </div>
+</body>
+</html>
